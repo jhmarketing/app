@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-d4&p+6ympn_y50g&37@=)f4^qq__+gmsh#xkqoo^$m@k!nyr3e'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['.onrender.com', 'appfitness.onrender.com', 'your-custom-domain.com']
 
